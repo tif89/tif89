@@ -1,6 +1,6 @@
-### Salut ! Moi c’est Le X 👋  
+### Hey, moi c’est **Le X** 👋
 
-- 🔭  Dev FiveM (Lua)  
-- 🎮  Fan de RP GTA : j’optimise scripts & performances serveur  
-- 📚  Toujours en train d’apprendre (Docker, Linux ou Windows…)  
-- 💬  Ping-moi pour parler open-source, mécaniques de jeu ou café ☕  
+* 🔧 **Développeur FiveM (Lua)** — création & optimisation de scripts sur-mesure
+* 🚓 **Passionné de RP GTA** — je traque les ms perdus et booste les perfs des serveurs
+* 📘 **Curieux en continu** — que ce soit Docker, Linux, Windows… j’apprends non-stop
+* ☕ **Toujours partant pour discuter** open-source, game design ou juste débattre autour d’un bon café
