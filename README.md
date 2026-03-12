@@ -1,25 +1,55 @@
+## 🌍 Languages
+
+🇺🇸 **English**
+
 ## 👋 Introduction
 
-<img align='right' src='https://r2.fivemanage.com/7E70M9Wru2zUvWNSyD70j/IMG_0765.png' width='200"'>
+<img align='right' src='https://r2.fivemanage.com/7E70M9Wru2zUvWNSyD70j/IMG_0765.png' width='200'>
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Ekinoxx0)
+![status](https://img.shields.io/badge/status-up-brightgreen)
+![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/tif89)
 
-Hi, I'm **Le X**. I am a Lua/Javascript developer from Belgium.
-I do some works with **Lua**, **JS** , contact me if you have some questions!
+Hi, I'm **Le X**. I’m a **Lua / JavaScript developer from Belgium**.  
+I mainly work with **Lua** and **JavaScript**. Feel free to contact me if you have any questions!
 
-## 📫 Contact Me on Social Media
+## 📫 Contact
 
-✉️ [Email](mailto:contact.tifgames@gmail.com) Me about everything!
+✉️ [Email](mailto:contact.tifgames@gmail.com) — Contact me about anything!
 
-## 💡 Projects with My Work
+## 💡 Projects
 
-- [**Paris Enigma**](https://discord.gg/perpfr): My current work on a GTA 5 RP server
-- [**Fantaisia**](https://discord.gg/fantaisiarp): My old server
+- **Paris Enigma** – My current work on a GTA V RP server  
+  https://discord.gg/perpfr
 
-## 📚 General
+- **Fantaisia** – My previous server  
+  https://discord.gg/fantaisiarp
 
-- 🔭 I’m currently working on Paris Enigma and Valoria
- 
-## 💻 Work Stats
 
-![tif89's Github stats](https://github-readme-stats.vercel.app/api?username=tif89&show_icons=true)
+
+🇫🇷 **Français**
+
+## 👋 Introduction
+
+Salut, je suis **Le X**. Je suis un **développeur Lua / JavaScript basé en Belgique**.  
+Je travaille principalement avec **Lua** et **JavaScript**. N’hésite pas à me contacter si tu as des questions !
+
+## 📫 Contact
+
+✉️ [Email](mailto:contact.tifgames@gmail.com) — Tu peux me contacter pour n’importe quelle question.
+
+## 💡 Projets
+
+- **Paris Enigma** – Mon projet actuel sur un serveur **GTA V RP**  
+  https://discord.gg/perpfr
+
+- **Fantaisia** – Mon ancien serveur  
+  https://discord.gg/fantaisiarp
+
+
+
+## 💻 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tif89&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tif89&layout=compact&theme=tokyonight)
