@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Introduction
 
-<!--
-**tif89/tif89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://r2.fivemanage.com/7E70M9Wru2zUvWNSyD70j/IMG_0765.png' width='200"'>
 
-Here are some ideas to get you started:
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Ekinoxx0)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm **Le X**. I am a Lua/Javascript developer from Belgium.
+I do some works with **Lua**, **JS** , contact me if you have some questions!
+
+## 📫 Contact Me on Social Media
+
+✉️ [Email](mailto:contact.tifgames@gmail.com) Me about everything!
+
+## 💡 Projects with My Work
+
+- [**Paris Enigma**](https://discord.gg/perpfr): My current work on a GTA 5 RP server
+- [**Fantaisia**](https://discord.gg/fantaisiarp): My old server
+
+## 📚 General
+
+- 🔭 I’m currently working on Paris Enigma and Valoria
+ 
+## 💻 Work Stats
+
+![tif89's Github stats](https://github-readme-stats.vercel.app/api?username=tif89&show_icons=true)
