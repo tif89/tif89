@@ -50,6 +50,6 @@ Je travaille principalement avec **Lua** et **JavaScript**. N’hésite pas à m
 
 ## 💻 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tif89&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=tif89&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tif89&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tif89&layout=compact&theme=tokyonight)
