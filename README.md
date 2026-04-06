@@ -1,7 +1,3 @@
-## 🌍 Languages
-
-🇺🇸 **English**
-
 ## 👋 Introduction
 
 <img align='right' src='https://r2.fivemanage.com/7E70M9Wru2zUvWNSyD70j/IMG_0765.png' width='200'>
@@ -23,25 +19,4 @@ I mainly work with **Lua** and **JavaScript**. Feel free to contact me if you ha
   https://discord.gg/perpfr
 
 - **Fantaisia** – My previous server  
-  https://discord.gg/fantaisiarp
-
-
-
-🇫🇷 **Français**
-
-## 👋 Introduction
-
-Salut, je suis **Le X**. Je suis un **développeur Lua / JavaScript basé en Belgique**.  
-Je travaille principalement avec **Lua** et **JavaScript**. N’hésite pas à me contacter si tu as des questions !
-
-## 📫 Contact
-
-✉️ [Email](mailto:contact.tifgames@gmail.com) — Tu peux me contacter pour n’importe quelle question.
-
-## 💡 Projets
-
-- **Paris Enigma** – Mon projet actuel sur un serveur **GTA V RP**  
-  https://discord.gg/perpfr
-
-- **Fantaisia** – Mon ancien serveur  
   https://discord.gg/fantaisiarp
