@@ -45,11 +45,3 @@ Je travaille principalement avec **Lua** et **JavaScript**. N’hésite pas à m
 
 - **Fantaisia** – Mon ancien serveur  
   https://discord.gg/fantaisiarp
-
-
-
-## 💻 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=tif89&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tif89&layout=compact&theme=tokyonight&cache_seconds=1800)
