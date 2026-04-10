@@ -1,7 +1,5 @@
 ## 👋 Introduction
 
-<img align='right' src='https://r2.fivemanage.com/7E70M9Wru2zUvWNSyD70j/IMG_0765.png' width='200'>
-
 ![status](https://img.shields.io/badge/status-up-brightgreen)
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/tif89)
